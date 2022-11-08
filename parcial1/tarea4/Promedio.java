@@ -1,5 +1,4 @@
 package tarea4;
-// Permitir la captura de n números y calcular su promedio
 
 import java.util.Scanner;
 
