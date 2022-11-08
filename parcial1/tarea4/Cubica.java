@@ -1,4 +1,4 @@
-package parcial1.tarea4;
+package tarea4;
 
 public class Cubica {
     public static void cubo() {

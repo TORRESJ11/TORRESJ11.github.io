@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Triangulo",
+            "request": "launch",
+            "mainClass": "tarea4.Triangulo",
+            "projectName": "TORRESJ11.github.io_2871fd37"
+        },
+        {
+            "type": "java",
+            "name": "Launch Promedio",
+            "request": "launch",
+            "mainClass": "tarea4.Promedio",
+            "projectName": "TORRESJ11.github.io_2871fd37"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fibonacci",
+            "request": "launch",
+            "mainClass": "tarea4.Fibonacci",
+            "projectName": "TORRESJ11.github.io_2871fd37"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factorial",
+            "request": "launch",
+            "mainClass": "tarea4.Factorial",
+            "projectName": "TORRESJ11.github.io_2871fd37"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalculoPi2",
+            "request": "launch",
+            "mainClass": "tarea4.CalculoPi2",
+            "projectName": "TORRESJ11.github.io_2871fd37"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "tarea2.HelloWorld",
+            "projectName": "TORRESJ11.github.io_2871fd37"
+        },
+        {
+            "type": "java",
+            "name": "Launch Cuadrado",
+            "request": "launch",
+            "mainClass": "tarea4.Cuadrado",
+            "projectName": "TORRESJ11.github.io_2871fd37"
+        },
+        {
+            "type": "java",
             "name": "Launch Cubica",
             "request": "launch",
             "mainClass": "tarea4.Cubica",

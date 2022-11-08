@@ -1,4 +1,4 @@
-package p4arcial1.tarea4;
+package tarea4;
 import java.util.Scanner;
 
 public class Triangulo {

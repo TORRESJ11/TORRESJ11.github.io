@@ -1,4 +1,4 @@
-package parcial1.tarea4;
+package tarea4;
 
 public class Fibonacci {
     public static void main(String[] args) {

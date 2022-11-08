@@ -1,3 +1,4 @@
+package tarea4;
 import javax.swing.JOptionPane;
 
 public class Promedio {
