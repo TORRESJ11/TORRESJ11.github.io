@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ArrayDimensional",
+            "request": "launch",
+            "mainClass": "ArrayDimensional",
+            "projectName": "TORRESJ11.github.io_2871fd37"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayAverash",
+            "request": "launch",
+            "mainClass": "ArrayAverash",
+            "projectName": "TORRESJ11.github.io_2871fd37"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrayfor",
+            "request": "launch",
+            "mainClass": "Arrayfor",
+            "projectName": "TORRESJ11.github.io_2871fd37"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayEdad",
+            "request": "launch",
+            "mainClass": "ArrayEdad",
+            "projectName": "TORRESJ11.github.io_2871fd37"
+        },
+        {
+            "type": "java",
             "name": "Launch Triangulo",
             "request": "launch",
             "mainClass": "tarea4.Triangulo",
