@@ -1,3 +1,4 @@
+package tarea5;
 public class ArrayEdad2 {
 
         public static void main(String[] arg) {

@@ -1,3 +1,4 @@
+package tarea5;
 public class ArrayFor {
 
     public static void main(String[] arg) {
