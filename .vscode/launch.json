@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ArrayEdad2",
+            "request": "launch",
+            "mainClass": "tarea5.ArrayEdad2",
+            "projectName": "TORRESJ11.github.io_2871fd37"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayEdad",
+            "request": "launch",
+            "mainClass": "tarea5.ArrayEdad",
+            "projectName": "TORRESJ11.github.io_2871fd37"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayDimensional",
+            "request": "launch",
+            "mainClass": "tarea5.ArrayDimensional",
+            "projectName": "TORRESJ11.github.io_2871fd37"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayAverash",
+            "request": "launch",
+            "mainClass": "tarea5.ArrayAverash",
+            "projectName": "TORRESJ11.github.io_2871fd37"
+        },
+        {
+            "type": "java",
+            "name": "Launch JasubTorresProg3",
+            "request": "launch",
+            "mainClass": "examen.JasubTorresProg3",
+            "projectName": "TORRESJ11.github.io_2871fd37"
+        },
+        {
+            "type": "java",
+            "name": "Launch JasubTorresProg2",
+            "request": "launch",
+            "mainClass": "examen.JasubTorresProg2",
+            "projectName": "TORRESJ11.github.io_2871fd37"
+        },
+        {
+            "type": "java",
+            "name": "Launch JasubTorresProg1",
+            "request": "launch",
+            "mainClass": "examen.JasubTorresProg1",
+            "projectName": "TORRESJ11.github.io_2871fd37"
+        },
+        {
+            "type": "java",
+            "name": "Launch JasubTorresProg1",
+            "request": "launch",
+            "mainClass": "JasubTorresProg1",
+            "projectName": "TORRESJ11.github.io_2871fd37"
+        },
+        {
+            "type": "java",
             "name": "Launch ArrayDimensional",
             "request": "launch",
             "mainClass": "ArrayDimensional",
