@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch JasubTorresProg10",
+            "request": "launch",
+            "mainClass": "examen.JasubTorresProg10",
+            "projectName": "TORRESJ11.github.io_2871fd37"
+        },
+        {
+            "type": "java",
+            "name": "Launch MatrizDiagonalDos",
+            "request": "launch",
+            "mainClass": "tarea6.MatrizDiagonalDos",
+            "projectName": "TORRESJ11.github.io_2871fd37"
+        },
+        {
+            "type": "java",
+            "name": "Launch MatrizDiagonal",
+            "request": "launch",
+            "mainClass": "tarea6.MatrizDiagonal",
+            "projectName": "TORRESJ11.github.io_2871fd37"
+        },
+        {
+            "type": "java",
+            "name": "Launch Matrizprint",
+            "request": "launch",
+            "mainClass": "tarea5.Matrizprint",
+            "projectName": "TORRESJ11.github.io_2871fd37"
+        },
+        {
+            "type": "java",
             "name": "Launch ArrayEdad2",
             "request": "launch",
             "mainClass": "tarea5.ArrayEdad2",

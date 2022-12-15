@@ -8,14 +8,13 @@ public class JasubTorresProg4 {
     System.out.println("Nombre: Jasub "); 
     System.out.println("Matricula: S22022252");
     
-        
     Scanner sc = new Scanner(System.in); 
     System.out.println("Introduzca un numero entero positivo:");
         int mes = sc.nextInt();
 
         String mesdelaño; 
         switch (mes) {
-
+            
         case 1:  mesdelaño = "Enero";
                  break;
         case 2:  mesdelaño = "Febrero";
@@ -42,7 +41,8 @@ public class JasubTorresProg4 {
                  break;
         default: mesdelaño = "Número incorrecto.";
                  break;
-        }
 
+        }
+        System.out.println(mesdelaño);
     }
 }

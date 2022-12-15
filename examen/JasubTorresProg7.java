@@ -6,22 +6,19 @@ public class JasubTorresProg7 {
     System.out.println("Nombre: Jasub "); 
     System.out.println("Matricula: S22022252");
 
-// declare an array
-String[] nombres = new String[5];
+    String[] mejoresamigos= new String[5]; 
+    mejoresamigos[0] = "Marlon";
+    mejoresamigos[1] = "Emilio";
+    mejoresamigos[2] = "Adrian";
+    mejoresamigos[3] = "Javid";
+    mejoresamigos[4] = "Manuel";
+    
+    System.out.println("Mis 5 mejores amigos:");
+    System.out.println(mejoresamigos[0]);
+    System.out.println(mejoresamigos[1]);
+    System.out.println(mejoresamigos[2]);
+    System.out.println(mejoresamigos[3]);
+    System.out.println(mejoresamigos[4]);
 
-// initialize array
-nombres[0] = ¨Marlon¨;
-nombres[1] = ¨Emilio¨;
-nombres[2] = ¨Adrian¨;
-nombres[3] = ¨Javid¨;
-nombres[4] = ¨Manuel¨;
-
-System.out.println(nombres[0]);
-   System.out.println(nombres[1]);
-   System.out.println(nombres[2]);
-   System.out.println(nombres[3]);
-   System.out.println(nombres[4]);
-
-
-}
+    }
 }
